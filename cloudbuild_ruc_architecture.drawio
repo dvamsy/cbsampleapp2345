@@ -1,9 +1,24 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15" version="24.8.6">
   <diagram name="Page-1" id="xNSv_Cr6D6eYXkYYOSeu">
-    <mxGraphModel dx="1026" dy="692" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1026" dy="692" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="dJaUPLGE9bNAKMGCosSM-1" value="On Boarding Services&amp;nbsp;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="61" y="198" width="137" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dJaUPLGE9bNAKMGCosSM-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.442;exitY=0.988;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dJaUPLGE9bNAKMGCosSM-1" target="dJaUPLGE9bNAKMGCosSM-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="399" y="382" as="sourcePoint" />
+            <mxPoint x="130" y="352" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dJaUPLGE9bNAKMGCosSM-3" value="Off-boarding Pipeline&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;INPUT PARAMETER:&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Project ID&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Repo_slug(***)&lt;/div&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="58" y="350" width="133" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="dJaUPLGE9bNAKMGCosSM-5" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Trigger for De-Registering the Application Repo if exists&amp;nbsp;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="54" y="296" width="152" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
