@@ -140,6 +140,22 @@
         <mxCell id="HMm3c0mQo5H26Hu9wWOo-33" value="Artifact Registry" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="239.5" y="504" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="HMm3c0mQo5H26Hu9wWOo-36" value="Runs maven releaser:releaser&lt;div&gt;&amp;amp;&lt;/div&gt;&lt;div&gt;Push Artifacts to Artifact Registry&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1025" y="648" width="256" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="HMm3c0mQo5H26Hu9wWOo-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.008;entryY=0.596;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HMm3c0mQo5H26Hu9wWOo-23" target="HMm3c0mQo5H26Hu9wWOo-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="764" y="697" />
+              <mxPoint x="1027" y="697" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HMm3c0mQo5H26Hu9wWOo-38" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HMm3c0mQo5H26Hu9wWOo-37">
+          <mxGeometry x="0.242" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
